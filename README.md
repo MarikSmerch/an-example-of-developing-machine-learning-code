@@ -6,6 +6,9 @@
 Этот markdown-файл — подробный разбор решения по блокам. Его можно использовать как README для GitHub, как конспект перед экзаменом и как основу для распечатки.
 
 ---
+https://colab.research.google.com/drive/1dARGHDKvSvbx2ifAfgFSDwfvO9HXd60W?usp=sharing
+
+coxsub-kYkmu9-tiqvoz
 
 ## 1. Что вообще делаем
 
